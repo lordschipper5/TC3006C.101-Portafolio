@@ -1,8 +1,6 @@
 # TC3006C.101-Portafolio
 Rodolfo Sandoval Schipper A01720253
 
-Rodolfo Sandoval Schipper A01720253
-
 Estructura de este repositorio
 La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
 
